@@ -1,0 +1,11 @@
+.cimek{
+display: flex;
+flex-wrap: wrap;
+
+}
+h1{
+    margin: auto;
+}
+.feladat{width: max-content;}
+.paros{display: flex;}
+div{margin: auto;}
